@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "string",
+      "description": "string string stringstring vstringv string string string string",
+      "price": 33,
+      "quantity": "32311",
+      "note": "string string stringstring vstringv string string string string",
+      "isAvailable": true,
+      "image": "https://toptanmarket.fr/wp-content/uploads/2020/11/24-x-33-cl-Coca-Cola-cherry-5.png",
+      "created_at": "string",
+      "has_to_be_consumed": "string",
+      "category_id": "1"
+    },
+    {
+      "id": "2",
+      "name": "string",
+      "description": "string string stringstring vstringv string string string string",
+      "price": 33,
+      "quantity": "434343",
+      "note": "string string stringstring vstringv string string string string",
+      "isAvailable": true,
+      "image": "https://toptanmarket.fr/wp-content/uploads/2020/11/24-x-33-cl-Coca-Cola-cherry-5.png",
+      "created_at": "string",
+      "has_to_be_consumed": "string",
+      "category_id": "1"
+    },
+    {
+      "id": "dfa0",
+      "name": "Burger222",
+      "description": "kytdckfu ",
+      "note": "kytdckfuy",
+      "price": "878",
+      "quantity": "99",
+      "isAvailable": false,
+      "image": "ytdc",
+      "created_at": "2024-07-27",
+      "has_to_be_consumed": "2024-10-27",
+      "category_id": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "category": "soda"
+    },
+    {
+      "id": "2",
+      "category": "burger"
+    },
+    {
+      "id": "2",
+      "category": "frites"
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "product_id": "2",
+      "note": "string string stringstring vstringv string string string string"
+    },
+    {
+      "id": "4157",
+      "note": "J'adore",
+      "product_id": "2"
+    },
+    {
+      "id": "ea44",
+      "note": "J'adore",
+      "product_id": "2"
+    },
+    {
+      "id": "2b48",
+      "note": "J'adore",
+      "product_id": "2"
+    },
+    {
+      "id": "c559",
+      "note": "Miam je me suis regaler",
+      "product_id": "1c53"
+    },
+    {
+      "id": "5739",
+      "note": "t'es bon",
+      "product_id": "dfa0"
+    },
+    {
+      "id": "9550",
+      "note": "miam",
+      "product_id": "dfa0"
+    },
+    {
+      "id": "bec1",
+      "note": "mi",
+      "product_id": "2"
+    },
+    {
+      "id": "6c69",
+      "note": "mi",
+      "product_id": "2"
+    }
+  ]
+}
