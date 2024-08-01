@@ -7,3 +7,8 @@ controllers:
 api_cart_add_products:
     path: /api/carts/{id}/addProducts
     controller: App\Controller\CartController::addProductsToCart
+
+api_cart_remove_product:
+    path: /api/carts/{cartId}/product/{productId}
+    controller: App\Controller\CartRemoveProductController::removeProductFromCart
+    
