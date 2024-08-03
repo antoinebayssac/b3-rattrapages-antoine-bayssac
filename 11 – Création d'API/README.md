@@ -6,4 +6,6 @@
 
 3 : `cp .env.local .env` to have a .env 
 
+4 : `symfony serve` to start the project
+
 5: Good dev
