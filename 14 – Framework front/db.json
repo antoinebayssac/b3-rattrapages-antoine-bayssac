@@ -1,32 +1,6 @@
 {
   "products": [
     {
-      "id": "1",
-      "name": "string",
-      "description": "string string stringstring vstringv string string string string",
-      "price": 33,
-      "quantity": "32311",
-      "note": "string string stringstring vstringv string string string string",
-      "isAvailable": true,
-      "image": "https://toptanmarket.fr/wp-content/uploads/2020/11/24-x-33-cl-Coca-Cola-cherry-5.png",
-      "created_at": "string",
-      "has_to_be_consumed": "string",
-      "category_id": "1"
-    },
-    {
-      "id": "2",
-      "name": "string",
-      "description": "string string stringstring vstringv string string string string",
-      "price": 33,
-      "quantity": "434343",
-      "note": "string string stringstring vstringv string string string string",
-      "isAvailable": true,
-      "image": "https://toptanmarket.fr/wp-content/uploads/2020/11/24-x-33-cl-Coca-Cola-cherry-5.png",
-      "created_at": "string",
-      "has_to_be_consumed": "string",
-      "category_id": "1"
-    },
-    {
       "id": "dfa0",
       "name": "Burger222",
       "description": "kytdckfu ",
@@ -37,6 +11,45 @@
       "image": "ytdc",
       "created_at": "2024-07-27",
       "has_to_be_consumed": "2024-10-27",
+      "category_id": "2"
+    },
+    {
+      "id": "9c39",
+      "name": "fanta",
+      "description": "fanta c'est piquant",
+      "note": "10",
+      "price": "2",
+      "quantity": "5",
+      "isAvailable": true,
+      "image": "",
+      "created_at": "2024-08-03",
+      "has_to_be_consumed": "2024-11-03",
+      "category_id": "1"
+    },
+    {
+      "id": "cea0",
+      "name": "macfrancais",
+      "description": "exemple",
+      "note": "trop bon",
+      "price": "10",
+      "quantity": "100",
+      "isAvailable": true,
+      "image": "",
+      "created_at": "2024-08-03",
+      "has_to_be_consumed": "2024-11-03",
+      "category_id": "2"
+    },
+    {
+      "id": "8357",
+      "name": "frite cheddar",
+      "description": "exemple",
+      "note": "trop bon",
+      "price": "10",
+      "quantity": "100",
+      "isAvailable": true,
+      "image": "",
+      "created_at": "2024-08-03",
+      "has_to_be_consumed": "2024-11-03",
       "category_id": "2"
     }
   ],
@@ -99,6 +112,56 @@
       "id": "6c69",
       "note": "mi",
       "product_id": "2"
+    },
+    {
+      "id": "5f6b",
+      "note": "trop bon",
+      "product_id": "1"
+    },
+    {
+      "id": "7e81",
+      "note": "1000",
+      "product_id": "9c39"
+    },
+    {
+      "id": "3c9e",
+      "note": "",
+      "product_id": "9c39"
+    },
+    {
+      "id": "cbae",
+      "note": "2000",
+      "product_id": "9c39"
+    },
+    {
+      "id": "932d",
+      "note": "2",
+      "product_id": "9c39"
+    },
+    {
+      "id": "6869",
+      "note": "trop bon",
+      "product_id": "26f6"
+    },
+    {
+      "id": "a7f9",
+      "note": "super bon",
+      "product_id": "26f6"
+    },
+    {
+      "id": "a93f",
+      "note": "oui oui trop bon",
+      "product_id": "26f6"
+    },
+    {
+      "id": "6d67",
+      "note": "super frais",
+      "product_id": "a49b"
+    },
+    {
+      "id": "0a73",
+      "note": "trop bon",
+      "product_id": "a49b"
     }
   ]
 }

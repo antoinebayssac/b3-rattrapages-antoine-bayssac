@@ -9,3 +9,5 @@
 4:  `npx json-server db.json` to run the Api
 
 5: Good dev
+
+6: lien vidéo présentaion rattrapage antoine baysac : https://youtu.be/PhkoaDd4Bk4
