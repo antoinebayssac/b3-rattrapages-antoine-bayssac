@@ -10,4 +10,4 @@
 
 5: Good dev
 
-6: lien vidéo présentaion rattrapage antoine bayssac : https://youtu.be/TAPToVqQIx8
+6: lien vidéo présentation rattrapage antoine bayssac : https://youtu.be/TAPToVqQIx8
