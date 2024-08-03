@@ -9,3 +9,5 @@
 4 : `symfony serve` to start the project
 
 5: Good dev
+
+6: lien vidéo présentaion rattrapage antoine bayssac : https://youtu.be/PhkoaDd4Bk4
